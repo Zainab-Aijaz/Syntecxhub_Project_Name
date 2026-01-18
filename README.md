@@ -1,2 +1,2 @@
-# Syntecxhub_Project_Name
+# Syntecxhub_Project_Portfolio Website
 Portfolio Website Using HTML and CSS only
